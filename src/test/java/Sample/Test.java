@@ -6,6 +6,7 @@ public class Test {
 	{
 		System.out.println("Hello");
 		//pushed done in git
+		//pulled done in eclipse
 
 	}
 
